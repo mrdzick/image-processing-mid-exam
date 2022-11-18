@@ -1,0 +1,2 @@
+# image-processing-mid-exam
+**Kesimpulan**: Program ini menampilkan beberapa operasi citra yang dilakukan pada gambar, seperti mengubah warna nya menjadi grayscale, mengubah intensitas kecerahan, serta menampilkan gambar dalam format berwarna (rgb). Selain itu, pada program ini juga didemonstrasikan penggunaan library matplotlib untuk visualisasi citra seperti histogram citra untuk berbagai channel warna.
